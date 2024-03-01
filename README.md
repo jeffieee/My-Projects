@@ -2,7 +2,7 @@
 
 Hello there!
 
-I am writing to introduce myself, Jefferson Bual, a recent recipient of a Bachelor's Degree in Computer Science. Throughout the course of my academic journey, I have undertaken several notable projects, two of which I would like to present for your consideration:
+I am writing to introduce myself, Jefferson Bual, a recent recipient of a Bachelor's Degree in Computer Science. Throughout the course of my academic journey, I have undertaken several notable projects that i already posted to my branches, two of which I would like to present for your consideration:
 
 BayaScript: Convolutional Neural Networks (CNN) Driven Character Recognition in a Mobile Application for Learning Baybayin:
 This endeavor introduces "BayaScript," a mobile application developed to facilitate the learning of the Baybayin script. Employing a custom CNN model for character recognition, despite operating with a modest dataset, the application has demonstrated promising accuracies. This project underscores the potential for efficient script acquisition, particularly in resource-constrained environments.
