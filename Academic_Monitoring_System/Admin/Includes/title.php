@@ -1,1 +1,0 @@
-  <title>SMS - Dashboard</title>
