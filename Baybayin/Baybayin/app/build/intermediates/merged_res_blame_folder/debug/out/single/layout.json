@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit2_drawing.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit2_drawing.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ya.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ya.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit1_quiz_note.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit1_quiz_note.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_drawing.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_drawing.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/activity_splash.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/dialog_done_quiz.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/dialog_done_quiz.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_ha_la.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_ha_la.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_nga_pa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_nga_pa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ta_wa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ta_wa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_baka.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_baka.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_da_ga.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_da_ga.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit2_lesson_introduction.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit2_lesson_introduction.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/fragment_home.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/dialog_failed_quiz.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/dialog_failed_quiz.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_mana.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_mana.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/lesson_kahalagahan.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/lesson_kahalagahan.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/fragment_profile.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/draw_view.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/draw_view.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ba_ka.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ba_ka.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_ta_wa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_ta_wa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_introduction.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_introduction.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit2_quiz.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit2_quiz.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ra_sa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ra_sa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_ma_na.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_ma_na.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_da_ga.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_da_ga.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ngapa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ngapa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/lesson_pagsisimula.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/lesson_pagsisimula.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_quiz_ha_la.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_quiz_ha_la.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/fragment_note.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit2_lesson_patinig.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit2_lesson_patinig.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_ya.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_ya.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_lesson_ra_sa.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_lesson_ra_sa.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/update_notes.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/update_notes.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/dialog_warning.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/dialog_warning.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/add_notes.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/add_notes.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/note_item.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit2_lesson_pagsulat.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit2_lesson_pagsulat.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit3_pagsulat.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit3_pagsulat.xml"
+    },
+    {
+        "merged": "com.example.baybayin.app-mergeDebugResources-34:/layout/yunit1_quiz.xml",
+        "source": "com.example.baybayin.app-main-37:/layout/yunit1_quiz.xml"
+    }
+]

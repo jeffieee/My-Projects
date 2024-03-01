@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_10sdp"
+    android:layout_marginBottom="@dimen/_10sdp"
+    android:background="@drawable/container_green">
+
+
+            <TextView
+                android:id="@+id/noteTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_gravity="center_vertical"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:fontFamily="@font/baybayin_bold"
+                tools:text="Title"/>
+            <TextView
+                android:id="@+id/noteContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:layout_gravity="center_vertical"
+                android:textAllCaps="false"
+                android:layout_below="@+id/noteTitle"
+                android:textColor="@color/white"
+                android:fontFamily="@font/baybaying_medium"
+                tools:text="Description"/>
+            <TextView
+                android:id="@+id/timeOutput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:layout_gravity="center_vertical"
+                android:textAllCaps="false"
+                android:layout_below="@+id/noteContent"
+                android:textAlignment="gravity"
+                android:textColor="@color/white"
+                android:fontFamily="@font/poppins_medium_italic"
+                android:gravity="end"
+                tools:text="time"
+                />
+
+
+</RelativeLayout>
