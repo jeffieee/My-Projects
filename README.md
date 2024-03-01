@@ -1,4 +1,5 @@
 https://github.com/jeffieee/My-Projects/assets/161804996/2576646e-d629-4562-bd4e-d25cd6a9f9f8
+
 BayaScript: Convolutional Neural Networks (CNN) Driven Character Recognition in a Mobile Application for Learning Baybayin: This endeavor introduces "BayaScript," a mobile application developed to facilitate the learning of the Baybayin script. Employing a custom CNN model for character recognition, despite operating with a modest dataset, the application has demonstrated promising accuracies. This project underscores the potential for efficient script acquisition, particularly in resource-constrained environments.
 
 
