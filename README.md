@@ -24,6 +24,7 @@ Contents of Yunit 1: Kasaysayan ng Bayan
 Contents of Yunit 2: Patinig
 
 <img width="222" alt="Picture4" src="https://github.com/jeffieee/My-Projects/assets/161804996/905f1dd8-6918-46cb-9733-6fbe3a4c7a32">
+
 1.	Allows the user to access the lessons about Introduction of Patinig characters.
 2.	Allows the user to access the lesson and quiz about Patinig characters.
 3.	Allows the user to view their scores on quiz.
