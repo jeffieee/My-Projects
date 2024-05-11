@@ -1,8 +1,6 @@
 Hello there!
 
-A Web-Based Student Academic Performance Monitoring System for Banay-Banay Elementary School: 
-This system, acronymically referred to as SAPMS, has been meticulously crafted to afford teachers and parents the capability to remotely monitor the academic progress of students. 
-Noteworthy features include the integration of the AES algorithm for data encryption, thereby ensuring user privacy, alongside the utilization of Bootstrap and PHP for its implementation.
+A Web-Based Student Academic Performance Monitoring System for Banay-Banay Elementary School, acronymically referred to as SAPMS, has been meticulously crafted to afford teachers and parents the capability to remotely monitor the academic progress of students. Noteworthy features include the integration of the AES algorithm for data encryption, thereby ensuring user privacy, alongside the utilization of Bootstrap and PHP for its implementation. Moreover, as part of its robust functionality, the system incorporates SQL databases for efficient data manipulation. Additionally, it offers the convenient feature of exporting data into Excel format, facilitating easy data analysis for educators and administrators alike.
 
 Login Dashboard
 <img width="951" alt="Screenshot 2024-03-01 155541" src="https://github.com/jeffieee/My-Projects/assets/161804996/fab9b0c4-0e23-4048-bd56-bfa747d9134b">
